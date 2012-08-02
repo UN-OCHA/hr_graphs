@@ -1,0 +1,9 @@
+name = HumanitarianResponse Graphs
+description = HumanitarianResponse - Graphs
+core = 7.x
+package = Humanitarianresponse
+php = 5.2.4
+version = 7.x-1.0
+project = hr_graphs
+dependencies[] = views_highcharts
+features[features_api][] = api:1
